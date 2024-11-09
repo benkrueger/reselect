@@ -1,5 +1,4 @@
 **Organization:** ResElect  
-**Website:** [www.ResElect.org](http://www.ResElect.org)
 
 **Purpose:**  
 To create a robotic CNC system capable of disassembling obsolete or discarded electronic circuit boards and reclaiming reusable microchips, providing a potential safeguard against disruptions in the global semiconductor supply chain.
